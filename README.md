@@ -6,7 +6,8 @@ An end-to-end data analytics project analyzing customer attrition for Databel, a
 
 ## 📊 Dashboard Overview
 
-[Databel Dashboard.pdf]
+<img width="498" height="361" alt="Databell SS" src="https://github.com/user-attachments/assets/6800075d-bd7f-432e-af9a-c1f6b645f75d" />
+
 
 
 ---
