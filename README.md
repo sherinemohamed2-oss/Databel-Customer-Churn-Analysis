@@ -6,7 +6,7 @@ An end-to-end data analytics project analyzing customer attrition for Databel, a
 
 ## 📊 Dashboard Overview
 
-[Databel Dashboard.pdf](https://github.com/user-attachments/files/34500332/Databel.Dashboard.pdf)
+[Databel Dashboard.pdf]
 
 
 ---
